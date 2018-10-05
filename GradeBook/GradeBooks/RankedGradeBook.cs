@@ -1,6 +1,6 @@
 namespace GradeBook.GradeBooks
 {
-  public class RankedGradeBook
+  public class RankedGradeBook : BaseGradeBook
   {
     public RankedGradeBook : base(name)
     {
